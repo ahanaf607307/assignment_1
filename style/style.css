@@ -58,7 +58,7 @@
 .hero-content {
   text-align: center;
   align-items: center;
-  background: url("/assets/Hero-bg.png");
+  background: url("../assets/Hero-bg.png");
   background-position: center;
   background-size: cover;
   width: 1440px;
@@ -377,7 +377,7 @@
     flex-direction: column;
     text-align: center;
     align-items: center;
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.363) , rgba(0, 0, 0, 0.288)100%) , url("/assets/handshake.jpg");
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.363) , rgba(0, 0, 0, 0.288)100%) , url("../assets/handshake.jpg");
     border-radius: 16px;
    
     background-position: center;
