@@ -321,8 +321,7 @@
     padding: 0 144px;
     margin-bottom: 48px;
   }
-  #my-next-target .my-next-target-cards {
-  }
+ 
   #my-next-target .my-next-target-cards .card {
     width: 1140px;
     height: 219px;
@@ -378,7 +377,7 @@
     flex-direction: column;
     text-align: center;
     align-items: center;
-    background-image:linear-gradient(0deg ,rgba(0, 0, 0, 0.459), rgba(0, 0, 0, 0.452)100%), url(/assets/handshake.jpg);
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.363) , rgba(0, 0, 0, 0.288)100%) , url(/assets/handshake.jpg);
     border-radius: 16px;
    
     background-position: center;
