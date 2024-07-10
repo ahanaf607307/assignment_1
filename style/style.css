@@ -300,3 +300,152 @@
   
   /* my current target ends */
 
+  /* My Next Target starts */
+#my-next-target {
+    width: 1140px;
+    height: 866px;
+    margin: 50px auto;
+  }
+  #my-next-target .my-next-target-top {
+    text-align: center;
+  }
+  #my-next-target .my-next-target-top h1 {
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    text-align: center;
+    margin-bottom: 24px;
+  }
+  #my-next-target .my-next-target-top p {
+    padding: 0 144px;
+    margin-bottom: 48px;
+  }
+  #my-next-target .my-next-target-cards {
+  }
+  #my-next-target .my-next-target-cards .card {
+    width: 1140px;
+    height: 219px;
+    display: flex;
+    align-items: center;
+    padding: 40px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    margin-bottom: 24px;
+  }
+  #my-next-target .my-next-target-cards .card .card-left {
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #my-next-target .my-next-target-cards .card .card-right {
+    width: 80%;
+    line-height: 50px;
+  }
+  #my-next-target .my-next-target-cards .card .card-right h1 {
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 8px;
+    text-align: left;
+  }
+  
+  #my-next-target .my-next-target-cards .card .card-right p {
+    margin-bottom: 24px;
+  }
+  
+  #my-next-target .my-next-target-cards .card .card-right a {
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    text-align: left;
+    text-decoration-line: underline;
+  }
+  
+  /* My Next Target ends  */
+
+/* support section starts */
+#support-banner {
+    width: 1140px;
+    height: 313px;
+    padding: 64px 48px 64px 48px;
+    margin: 80px 150px 90px 150px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    background-image:linear-gradient(0deg ,rgba(0, 0, 0, 0.459), rgba(0, 0, 0, 0.452)100%), url(/assets/handshake.jpg);
+    border-radius: 16px;
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  #support-banner h1 {
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 36px;
+    text-align: center;
+    margin-bottom: 16px;
+  }
+  #support-banner p {
+    color: rgb(255, 255, 255);
+    margin-bottom: 24px;
+    padding: 0 219px;
+  }
+  #support-banner .input {
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+  #support-banner .input input {
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 8px;
+    width: 548px;
+    height: 57px;
+    background: rgb(255, 255, 255);
+    padding: 19px 20px 19px 20px;
+    margin: 0 14px 0 0;
+  }
+  #support-banner .input button {
+    color: rgb(13, 19, 33);
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    border-radius: 8px;
+  cursor: pointer;
+    background: rgb(255, 255, 255);
+    padding: 17px 20px 17px 20px;
+  }
+  /* support section ends */
+
+/* footer section start */
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 32px 150px;
+    border-radius: 16px;
+  
+    background: rgba(13, 19, 33, 0.03);
+  }
+  
+  footer h1 {
+    color: rgb(13, 19, 33);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    text-align: center;
+  }
+  footer div img {
+    margin-left: 24px;
+  }
+  /* footer section ends */
