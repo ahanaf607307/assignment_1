@@ -234,3 +234,69 @@
   }
   /*  My Inspiration ends */
 
+  /* my current target start */
+#my-current-target {
+    width: 1140px;
+    
+    margin: 111px auto;
+  }
+  #my-current-target .my-current-target-top {
+    align-items: center;
+    text-align: center;
+  }
+  #my-current-target .my-current-target-top h1 {
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    text-align: center;
+    margin: 0 0 24px 0;
+  }
+  #my-current-target .my-current-target-top p {
+    margin-bottom: 24px;
+    padding: 0 144px;
+  }
+  #my-current-target .my-current-target-cards {
+    width: 1140px;
+    height: 299px;
+    display: flex;
+    justify-content: space-between;
+  }
+  #my-current-target .my-current-target-cards .card {
+    width: 364px;
+    height: 299px;
+    border-radius: 16px;
+    padding: 40px;
+    background: rgba(255, 76, 30, 0.05);
+  }
+  #my-current-target .my-current-target-cards .card img {
+    width: 56px;
+    height: 56px;
+    margin-bottom: 24px;
+  }
+  #my-current-target .my-current-target-cards .card h1 {
+    margin-bottom: 8px;
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    text-align: left;
+  }
+  #my-current-target .my-current-target-cards .card p {
+    margin-bottom: 24px;
+  }
+  #my-current-target .my-current-target-cards .card a {
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    text-align: left;
+    text-decoration-line: underline;
+  }
+  #my-current-target .my-current-target-cards .card img {
+    width: 56px;
+    height: 56px;
+  }
+  
+  /* my current target ends */
+
